@@ -32,13 +32,13 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #00f;
+    color: white;
     /* Blue links */
     text-decoration: none;
 }
 
 nav ul li a:hover {
-    text-decoration: underline;
+    color: yellowgreen;
 }
 
 
