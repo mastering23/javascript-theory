@@ -1,5 +1,5 @@
 ![alt text](image.png)
-# testing javascript objects 
+# Testing Javascript Objects 
 Navigation Menu: A header section that includes links to "Home," "About," and "Contact." The links are styled to appear as inline items with a hover effect.
 
 About Section: This section contains a contact form where users can enter their Name, Email, Phone, and a Comment. The form is neatly styled with full-width input fields and a submit button.
